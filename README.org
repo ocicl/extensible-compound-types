@@ -4,6 +4,6 @@ User defined compound types in Common Lisp
 
 |---------+----------------------------------------------------------------|
 | source  | git:https://github.com/digikar99/extensible-compound-types.git |
-| commit  | 445719d                                                        |
+| commit  | 937945f                                                        |
 | systems | extensible-compound-types extensible-compound-types-cl         |
 |---------+----------------------------------------------------------------|
